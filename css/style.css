@@ -7,8 +7,13 @@ h1 {
 }
 
 .ball {
+<<<<<<< HEAD
     top: 50%;
     left: 50%;
+=======
+    margin-left: 50%;
+    margin-right: 50%;
+>>>>>>> 97a4ebce1672580006a1630750f24baa6399661f
     width: 100px;
     height: 100px;
     border-radius: 50%;
@@ -16,5 +21,8 @@ h1 {
     text-align: center;
     font-size: 22px;
     font-weight: bold;
+<<<<<<< HEAD
     transition: 1s;
+=======
+>>>>>>> 97a4ebce1672580006a1630750f24baa6399661f
 }
